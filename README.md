@@ -50,3 +50,6 @@ Admin panel to add customers and usage.
 ---
 
 ## ▶️ How To Run
+install npm 
+
+npm run dev
